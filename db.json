@@ -1,0 +1,172 @@
+{
+    "events": [
+        {
+            "id": 123,
+            "category": "animal welfare",
+            "title": "Cat Adoption Day",
+            "description": "Find your new feline friend at this event.",
+            "location": "Meow Town",
+            "date": "January 28, 2022",
+            "time": "12:00",
+            "organizer": "Kat Laydee"
+        },
+        {
+            "id": 456,
+            "category": "food",
+            "title": "Community Gardening",
+            "description": "Join us as we tend to the community edible plants.",
+            "location": "Flora City",
+            "date": "March 14, 2022",
+            "time": "10:00",
+            "organizer": "Fern Pollin"
+        },
+        {
+            "id": 789,
+            "category": "sustainability",
+            "title": "Beach Cleanup",
+            "description": "Help pick up trash along the shore.",
+            "location": "Playa Del Carmen",
+            "date": "July 22, 2022",
+            "time": "11:00",
+            "organizer": "Carey Wales"
+        }
+    ],
+    "reservations": [
+        {
+            "id": 1,
+            "fecha": "13-05-2024",
+            "asientos": 5,
+            "tipo": "bus-tren-bus"
+        },
+        {
+            "id": 2,
+            "fecha": "15-05-2024",
+            "asientos": 8,
+            "tipo": "bus-tren-bus"
+        },
+        {
+            "id": 3,
+            "fecha": "17-05-2024",
+            "asientos": 2,
+            "tipo": "bus-tren-bus"
+        },
+        {
+            "id": 4,
+            "fecha": "13-05-2024",
+            "asientos": 5,
+            "tipo": "solo-tren"
+        },
+        {
+            "id": 5,
+            "fecha": "15-05-2024",
+            "asientos": 8,
+            "tipo": "solo-tren"
+        },
+        {
+            "id": 6,
+            "fecha": "17-05-2024",
+            "asientos": 2,
+            "tipo": "solo-tren"
+        }
+    ],
+    "recipes": [
+        {
+            "id": 23,
+            "name": "lemmon cookie",
+            "description": "galletas para la tarde",
+            "warnings": "alto en grasas",
+            "ingredientes": [
+                "manteca",
+                "leche",
+                "harina",
+                "huevo",
+                "limón"
+            ],
+            "preparación": "mezclar todo"
+        },
+        {
+            "id": 34,
+            "name": "apple cookie",
+            "description": "galletas para la tarde",
+            "warnings": "alto en grasas",
+            "ingredientes": [
+                "manteca",
+                "leche",
+                "harina",
+                "huevo",
+                "limón"
+            ],
+            "preparación": "mezclar todo"
+        },
+        {
+            "id": 45,
+            "name": "orange cookie",
+            "description": "galletas para la tarde",
+            "warnings": "alto en grasas",
+            "ingredientes": [
+                "manteca",
+                "leche",
+                "harina",
+                "huevo",
+                "limón"
+            ],
+            "preparación": "mezclar todo"
+        }
+    ],
+    "dramas": [
+        {
+            "id": 123,
+            "name": "Secret garden",
+            "caps": 20,
+            "genres": [
+                "Drama",
+                "Fantasía",
+                "Romance",
+                "Comedia"
+            ],
+            "image": ""
+        },
+        {
+            "id": 234,
+            "name": "Crash Landing on You",
+            "caps": 16,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Comedia"
+            ],
+            "image": ""
+        },
+        {
+            "id": 345,
+            "name": "Memories of the Alhambra",
+            "caps": 16,
+            "genres": [
+                "Fantasía",
+                "Romance",
+                "Misterio"
+            ],
+            "image": ""
+        }
+    ],
+    "tips": [
+        {
+            "id": 34,
+            "name": "Set your brand colors",
+            "description": "Override global Sass variables from the /utilities folder",
+            "link": "https://bulma.io/documentation/customize/with-modular-sass/"
+        },
+        {
+            "id": 35,
+            "name": "CSS Variables in Bulma",
+            "description": "All Bulma components are styled using CSS Variables (which are also called CSS custom properties).",
+            "link": "https://bulma.io/documentation/features/css-variables/"
+        },
+        {
+            "id": 36,
+            "name": "Creating a custom theme",
+            "description": "Creating a theme is essentially setting your own CSS variables",
+            "link": "https://bulma.io/documentation/features/themes/"
+        }
+    ]
+}
