@@ -1,4 +1,5 @@
 ## Cómo usar?
+El repo tiene que ser Github
 
 https://my-json-server.typicode.com/
 

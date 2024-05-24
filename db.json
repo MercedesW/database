@@ -33,40 +33,76 @@
     ],
     "reservations": [
         {
+            "id": 0,
+            "date": "2024-05-28",
+            "slots": 5,
+            "kind": "solo-tren"
+        },
+        {
             "id": 1,
-            "fecha": "13-05-2024",
-            "asientos": 5,
-            "tipo": "bus-tren-bus"
+            "date": "2024-05-30",
+            "slots": 6,
+            "kind": "solo-tren"
         },
         {
             "id": 2,
-            "fecha": "15-05-2024",
-            "asientos": 8,
-            "tipo": "bus-tren-bus"
+            "date": "2024-06-01",
+            "slots": 5,
+            "kind": "bus-tren-bus"
         },
         {
-            "id": 3,
-            "fecha": "17-05-2024",
-            "asientos": 2,
-            "tipo": "bus-tren-bus"
+            "id": 0,
+            "date": "2024-06-04",
+            "slots": 5,
+            "kind": "solo-tren"
         },
         {
-            "id": 4,
-            "fecha": "13-05-2024",
-            "asientos": 5,
-            "tipo": "solo-tren"
+            "id": 1,
+            "date": "2024-06-06",
+            "slots": 6,
+            "kind": "solo-tren"
         },
         {
-            "id": 5,
-            "fecha": "15-05-2024",
-            "asientos": 8,
-            "tipo": "solo-tren"
+            "id": 2,
+            "date": "2024-06-08",
+            "slots": 5,
+            "kind": "bus-tren-bus"
         },
         {
-            "id": 6,
-            "fecha": "17-05-2024",
-            "asientos": 2,
-            "tipo": "solo-tren"
+            "id": 0,
+            "date": "2024-06-11",
+            "slots": 5,
+            "kind": "solo-tren"
+        },
+        {
+            "id": 1,
+            "date": "2024-06-13",
+            "slots": 6,
+            "kind": "solo-tren"
+        },
+        {
+            "id": 2,
+            "date": "2024-06-15",
+            "slots": 5,
+            "kind": "bus-tren-bus"
+        },
+        {
+            "id": 0,
+            "date": "2024-06-18",
+            "slots": 5,
+            "kind": "solo-tren"
+        },
+        {
+            "id": 1,
+            "date": "2024-06-20",
+            "slots": 6,
+            "kind": "solo-tren"
+        },
+        {
+            "id": 2,
+            "date": "2024-06-22",
+            "slots": 5,
+            "kind": "bus-tren-bus"
         }
     ],
     "recipes": [
