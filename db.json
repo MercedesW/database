@@ -51,55 +51,55 @@
             "kind": "bus-tren-bus"
         },
         {
-            "id": 0,
+            "id": 3,
             "date": "2024-06-04",
             "slots": 5,
             "kind": "solo-tren"
         },
         {
-            "id": 1,
+            "id": 4,
             "date": "2024-06-06",
             "slots": 6,
             "kind": "solo-tren"
         },
         {
-            "id": 2,
+            "id": 5,
             "date": "2024-06-08",
             "slots": 5,
             "kind": "bus-tren-bus"
         },
         {
-            "id": 0,
+            "id": 6,
             "date": "2024-06-11",
             "slots": 5,
             "kind": "solo-tren"
         },
         {
-            "id": 1,
+            "id": 7,
             "date": "2024-06-13",
             "slots": 6,
             "kind": "solo-tren"
         },
         {
-            "id": 2,
+            "id": 8,
             "date": "2024-06-15",
             "slots": 5,
             "kind": "bus-tren-bus"
         },
         {
-            "id": 0,
+            "id": 9,
             "date": "2024-06-18",
             "slots": 5,
             "kind": "solo-tren"
         },
         {
-            "id": 1,
+            "id": 10,
             "date": "2024-06-20",
             "slots": 6,
             "kind": "solo-tren"
         },
         {
-            "id": 2,
+            "id": 11,
             "date": "2024-06-22",
             "slots": 5,
             "kind": "bus-tren-bus"
